@@ -1,2 +1,3 @@
-# ola-mundo
- primeiro repositório 
+# Olá, Mundinho!!!
+ Repositório criado durante uma vídeo aula!
+
